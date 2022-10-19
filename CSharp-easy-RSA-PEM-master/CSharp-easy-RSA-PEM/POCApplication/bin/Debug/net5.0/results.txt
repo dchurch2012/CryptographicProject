@@ -1,0 +1,58 @@
+generating Public and Private RSA Keys
+#----------------------------------------------------------------------
+PUBLIC KEY :
+<?xml version="1.0" encoding="utf-8"?>
+<RSAParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exponent>AQAB</Exponent>
+  <Modulus>m6oOdMkwcb2y2q1+KetL65P4wF8gNUkVp6h/AGhcXXn6md4PeHMqP85Bbhczrj+svzcg8ifpGIt6k+Wq7ERaoWXZSS4yAyF+dup8MNjySGN0ydaebeDVuW5cBenP7N+OinUw0dJhbXh10+rVimEFDBQVXXSf7iH5QRUxYRtznis=</Modulus>
+</RSAParameters>
+#----------------------------------------------------------------------
+#----------------------------------------------------------------------
+PRIVATE KEY :
+<?xml version="1.0" encoding="utf-8"?>
+<RSAParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <D>UeZSPs3PqDhHjthzJbj/s82htg0WlBKEyzZSw7MkzaWs3SHBf/0PwIxTTon0jfxAdkaaFe47rMdN0dynZjG8gJXEiktOpUhpVzF0rcNQcSMlpKiprOdQCru+EHoqVXC5WGIL/XL/qmdYEu+51auzg8Kvvo4PZYuXhSA/b2WD2Rk=</D>
+  <DP>iGSfdOFcBzauYyu2bhYVQZPourZvUKMjAskss/d3xxbukN4GT98ARzVy2ydrFrujTyGMj21vaARRrBzY4g2SYQ==</DP>
+  <DQ>jyklF59bAaJ2Tvzl17uj0Zc2enLyZHoLhBfs20kTmxttcs3Mnat2MI8akm8ejwj1ypnGw33bVApgPdFi3PD1sQ==</DQ>
+  <Exponent>AQAB</Exponent>
+  <InverseQ>lTj3PYaXtK0LS9ypie7S6JWV2zJaxVVIIYezbcC9HoAYkbWywPJgtWpRkfdH3JcJRzmydlm9HCjJuuulQvWBtw==</InverseQ>
+  <Modulus>m6oOdMkwcb2y2q1+KetL65P4wF8gNUkVp6h/AGhcXXn6md4PeHMqP85Bbhczrj+svzcg8ifpGIt6k+Wq7ERaoWXZSS4yAyF+dup8MNjySGN0ydaebeDVuW5cBenP7N+OinUw0dJhbXh10+rVimEFDBQVXXSf7iH5QRUxYRtznis=</Modulus>
+  <P>1uqHw7wnDRC6FxtJ+EwMKQY37a1vxQZ5EaddSuuKAvJL+fjBsrm8L2eEBExDJv2M8U6cMjAmV6upcDWaqCVZ9Q==</P>
+  <Q>uWvis1LdPNHwoImOXx9DnlnQFjpEW7JeyAqb7FwIcJg6B/1oHhKjQNN+fXA9gvjxAIYjhcp8q6PSOXtUIztjnw==</Q>
+</RSAParameters>
+#----------------------------------------------------------------------
+#----------------------------------------------------------------------
+PUBLIC KEY PEM FORMAT:
+-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbqg50yTBxvbLarX4p60vrk/jA
+XyA1SRWnqH8AaFxdefqZ3g94cyo/zkFuFzOuP6y/NyDyJ+kYi3qT5arsRFqhZdlJ
+LjIDIX526nww2PJIY3TJ1p5t4NW5blwF6c/s346KdTDR0mFteHXT6tWKYQUMFBVd
+dJ/uIflBFTFhG3OeKwIDAQAB
+-----END PUBLIC KEY-----
+
+#----------------------------------------------------------------------
+#----------------------------------------------------------------------
+PRIVATE KEY PEM FORMAT:
+-----BEGIN RSA PRIVATE KEY-----
+MIICXgIBAAKBgQCbqg50yTBxvbLarX4p60vrk/jAXyA1SRWnqH8AaFxdefqZ3g94
+cyo/zkFuFzOuP6y/NyDyJ+kYi3qT5arsRFqhZdlJLjIDIX526nww2PJIY3TJ1p5t
+4NW5blwF6c/s346KdTDR0mFteHXT6tWKYQUMFBVddJ/uIflBFTFhG3OeKwIDAQAB
+AoGAUeZSPs3PqDhHjthzJbj/s82htg0WlBKEyzZSw7MkzaWs3SHBf/0PwIxTTon0
+jfxAdkaaFe47rMdN0dynZjG8gJXEiktOpUhpVzF0rcNQcSMlpKiprOdQCru+EHoq
+VXC5WGIL/XL/qmdYEu+51auzg8Kvvo4PZYuXhSA/b2WD2RkCQQDW6ofDvCcNELoX
+G0n4TAwpBjftrW/FBnkRp11K64oC8kv5+MGyubwvZ4QETEMm/YzxTpwyMCZXq6lw
+NZqoJVn1AkEAuWvis1LdPNHwoImOXx9DnlnQFjpEW7JeyAqb7FwIcJg6B/1oHhKj
+QNN+fXA9gvjxAIYjhcp8q6PSOXtUIztjnwJBAIhkn3ThXAc2rmMrtm4WFUGT6Lq2
+b1CjIwLJLLP3d8cW7pDeBk/fAEc1ctsnaxa7o08hjI9tb2gEUawc2OINkmECQQCP
+KSUXn1sBonZO/OXXu6PRlzZ6cvJkeguEF+zbSRObG21yzcydq3YwjxqSbx6PCPXK
+mcbDfdtUCmA90WLc8PWxAkEAlTj3PYaXtK0LS9ypie7S6JWV2zJaxVVIIYezbcC9
+HoAYkbWywPJgtWpRkfdH3JcJRzmydlm9HCjJuuulQvWBtw==
+-----END RSA PRIVATE KEY-----
+
+#----------------------------------------------------------------------
+Enter a String of Data : 
+Using public key, encrypt "Mary Had a Little Lamb"..
+Encrypted: s8dXeM3uKRhAYVSDJmzVRSNqJZTEavwAnv9MfrXNkaemB9vZ0MGIq77PwCPYJ3gvQ3Nx8s1YYNeCY1HQMQ8BjcsLzpCCK6K5AiDUWSiNJfIsBZJTg548D353jfKhRSG7DKVcS7rzk57/d0f3wtBa72kIHsf8jozr/AxG+6b+hxk=5pF5v6DbGBAdYYlwxxaBEzWzAdQhaWXw7iTdraAd9+JvE9G+cFLwBp2tvNf1iX1VmZMj2qcMvz15YVtgOIcOnkO+sJuVHEbhwJZgUfd49xKZIApE+0kl/ymGVrfDYFRNTtGR4qUOfTuA+8PPwrDE9cTcehUmSIHFcJVLrnaHimo=
+Encrypted Text : s8dXeM3uKRhAYVSDJmzVRSNqJZTEavwAnv9MfrXNkaemB9vZ0MGIq77PwCPYJ3gvQ3Nx8s1YYNeCY1HQMQ8BjcsLzpCCK6K5AiDUWSiNJfIsBZJTg548D353jfKhRSG7DKVcS7rzk57/d0f3wtBa72kIHsf8jozr/AxG+6b+hxk=5pF5v6DbGBAdYYlwxxaBEzWzAdQhaWXw7iTdraAd9+JvE9G+cFLwBp2tvNf1iX1VmZMj2qcMvz15YVtgOIcOnkO+sJuVHEbhwJZgUfd49xKZIApE+0kl/ymGVrfDYFRNTtGR4qUOfTuA+8PPwrDE9cTcehUmSIHFcJVLrnaHimo=
+Using private key, decrypt..
+Decrypted: Mary Had a Little Lamb

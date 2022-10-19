@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = POCApplication
+build_property.ProjectDir = D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\

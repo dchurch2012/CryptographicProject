@@ -1,0 +1,38 @@
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.exe
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.deps.json
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.runtimeconfig.json
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.runtimeconfig.dev.json
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.dll
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\ref\POCApplication.dll
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.pdb
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\CSharp-easy-RSA-PEM.dll
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\CSharp-easy-RSA-PEM.pdb
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.csproj.AssemblyReference.cache
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.AssemblyInfoInputs.cache
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.AssemblyInfo.cs
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.csproj.CoreCompileInputs.cache
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.csproj.CopyComplete
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.dll
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\ref\POCApplication.dll
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.pdb
+D:\Users\dchurch\Downloads\Source Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.genruntimeconfig.cache
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.exe
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.deps.json
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.runtimeconfig.json
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.runtimeconfig.dev.json
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.dll
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\ref\POCApplication.dll
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\POCApplication.pdb
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\CSharp-easy-RSA-PEM.dll
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\bin\Debug\net5.0\CSharp-easy-RSA-PEM.pdb
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.csproj.AssemblyReference.cache
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.AssemblyInfoInputs.cache
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.AssemblyInfo.cs
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.csproj.CoreCompileInputs.cache
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.csproj.CopyComplete
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.dll
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\ref\POCApplication.dll
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.pdb
+D:\Users\dchurch\Desktop\MOVE\MY SOURCE CODE\For Adams Cryptography Project\My C SHARP Code\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\POCApplication\obj\Debug\net5.0\POCApplication.genruntimeconfig.cache

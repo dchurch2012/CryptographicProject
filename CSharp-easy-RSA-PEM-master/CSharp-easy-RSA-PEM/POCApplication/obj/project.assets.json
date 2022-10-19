@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CSharp-easy-RSA-PEM/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CSharp-easy-RSA-PEM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSharp-easy-RSA-PEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp-easy-RSA-PEM/1.0.0": {
+      "type": "project",
+      "path": "../CSharp-easy-RSA-PEM/CSharp-easy-RSA-PEM.csproj",
+      "msbuildProject": "../CSharp-easy-RSA-PEM/CSharp-easy-RSA-PEM.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CSharp-easy-RSA-PEM >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "D:\\Users\\dchurch\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\dchurch\\Desktop\\MOVE\\MY SOURCE CODE\\For Adams Cryptography Project\\My C SHARP Code\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM\\POCApplication\\POCApplication.csproj",
+      "projectName": "POCApplication",
+      "projectPath": "D:\\Users\\dchurch\\Desktop\\MOVE\\MY SOURCE CODE\\For Adams Cryptography Project\\My C SHARP Code\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM\\POCApplication\\POCApplication.csproj",
+      "packagesPath": "D:\\Users\\dchurch\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\dchurch\\Desktop\\MOVE\\MY SOURCE CODE\\For Adams Cryptography Project\\My C SHARP Code\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM\\POCApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "D:\\Users\\dchurch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "D:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Users\\dchurch\\Desktop\\MOVE\\MY SOURCE CODE\\For Adams Cryptography Project\\My C SHARP Code\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM\\CSharp-easy-RSA-PEM\\CSharp-easy-RSA-PEM.csproj": {
+              "projectPath": "D:\\Users\\dchurch\\Desktop\\MOVE\\MY SOURCE CODE\\For Adams Cryptography Project\\My C SHARP Code\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM-master\\CSharp-easy-RSA-PEM\\CSharp-easy-RSA-PEM\\CSharp-easy-RSA-PEM.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

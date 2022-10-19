@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POCApplication/1.0.0": {
+        "dependencies": {
+          "CSharp-easy-RSA-PEM": "1.0.0"
+        },
+        "runtime": {
+          "POCApplication.dll": {}
+        }
+      },
+      "CSharp-easy-RSA-PEM/1.0.0": {
+        "runtime": {
+          "CSharp-easy-RSA-PEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POCApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharp-easy-RSA-PEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
