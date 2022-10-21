@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<RSAParameters xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Exponent>AQAB</Exponent>
+  <Modulus>qOVd9s+oqVsO2ZHarpAbOzxeJvYMp4YNodxFTAkMn8I7ZQ5WHnEkRBscQmcQCOgXz/C4jI0cB3y6AVbIIWvSk6mQj/UJnPaBi6f19Htl0dxQSOql8ObmmYf+R/q9LDdxMDK9FF1zfdplDNkgJ0DMtvMrqivOQaSy7KfqyltJXZGs67RM2Ru/0YUT5IqD6Ra9tEjoz5fL3tZ2hZAAygNqcPs6nuWXNDn6ATCILgYjxK29y50cypCHIQEoP4YB2RB1ZbcXpcdfJj+MQ55K+CKaSyjpPA450x6o5xGBXGIA1wbSOJihmCNFWnP0URSh2+oRFsHsriDhMx+xbG3DaRDt1Q==</Modulus>
+</RSAParameters>
+<?xml version="1.0" encoding="utf-16"?>
+<RSAParameters xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Exponent>AQAB</Exponent>
+  <Modulus>qOVd9s+oqVsO2ZHarpAbOzxeJvYMp4YNodxFTAkMn8I7ZQ5WHnEkRBscQmcQCOgXz/C4jI0cB3y6AVbIIWvSk6mQj/UJnPaBi6f19Htl0dxQSOql8ObmmYf+R/q9LDdxMDK9FF1zfdplDNkgJ0DMtvMrqivOQaSy7KfqyltJXZGs67RM2Ru/0YUT5IqD6Ra9tEjoz5fL3tZ2hZAAygNqcPs6nuWXNDn6ATCILgYjxK29y50cypCHIQEoP4YB2RB1ZbcXpcdfJj+MQ55K+CKaSyjpPA450x6o5xGBXGIA1wbSOJihmCNFWnP0URSh2+oRFsHsriDhMx+xbG3DaRDt1Q==</Modulus>
+  <P>6E1qyQU8DhZC2w6/4bCQhEQNtLJWslKfLOTQAtVGWxpUnkKPqBqlA50Ud6zKWRSJJv6OsYU1KiVxZG4MeA6h4JVRp5Y/QhKsVY21kGkwn4EgZQ2X+mvEkS2xfoGZeO4GBEnfKh/shbtSuAf/U0+AO4RfV56MIrbGZsk/PWjNlYU=</P>
+  <Q>uiAW0ALriJOnNcludjnUdS9KMv1rk3tlkQ6/02vYB0kg1qYoMaY9ebVIM7gAElXPPvds8QzhiJVq67tQtC2HcwiWWJhMa8C6Lu1FKJPY3IRQuVNi1Nu2FnPDmtkQcCsAZNUNNkgA6p8bEpPPhHZtJiNCp8Rawq02NRerG+TiABE=</Q>
+  <DP>kVM1NbKvokRs6KuugJs7nXMRe/SBZidn6ubt9ofD7uRnAWa0hj688qjHECMpp1bAgoOHcyjZXJd1+5UY+dZ1kJD5NzU4N7aE1zTC3CfiQja+tFkvtXrLyuLiAjlDcLK/Utl/4dN83SCWHAjswwqeNx2Vo7PNCT58mfrWNC2nRx0=</DP>
+  <DQ>LUCsCzsKhRRRLTSiVMBOtYcf5THUO/Feilwpq3+m8G6JO2b+ksO2Yqb+vQRZkBuo3chOhnT5SLn7WwEZ6BTBv+gwla3BttkO62Xo0KrRqRvKfKSXfOVGakMPJdDsvDjYSau7IJ11C5ZPgL7LT4tzkjg0dpG492ghq9rrUUbe4+E=</DQ>
+  <InverseQ>AddzqgqZQywa95hOHNBJMnE/fxoYZ1zD9zE6/NAjDat4Zr5OYM9eyj9KcgAOIw8+z1/hLjDRPDwYFFOihLrDXoNGqFm6eLaBsNq5jUCFu8w/iRnvt7wkh2MPX/zcj+C2lo8ZZg0w+KEMz92RagSsoRDKDu7IZ49I8J7MV0m3M+g=</InverseQ>
+  <D>m127rXJjZb81DuHEN/aqhjhHKDIJfAWt/qqBOKvOaBwlxRWGFSThRqFlwpPKRVczqH55VhnsodqTxO2O1me4Y0uFh1fTCwgcLVtJvyfQh1fSpvDry4qssKlQOeinIsixn7PdCaHZvvkrIcGOeW17pARXs4fuiaY3Tco+Cv4kpCP/8w0zKtGgFiXbjQAxHG9s6IyLCzzBwjEaR3xNpHaDjOT09lxnPXZKZQzRum/sa3S8gvGzW8Z+o6Pa/696qYZZJdQUcwN/YIXzShdmD4WQunOS8SqQRXqODPoPFx3BAXChPhOeN/odQZNpxK45czZqL6BACoaBZI+Sny85aYyHwQ==</D>
+</RSAParameters>
+---------------------------------------------------------------------------
+PUBLIC KEY
+---------------------------------------------------------------------------
+Public Key : <?xml version="1.0" encoding="utf-16"?>
+<RSAParameters xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Exponent>AQAB</Exponent>
+  <Modulus>6W00UdrVgfqDjhf+nYFGYfaR4OwvGa1TGU0TO9ESS4AV8YHZAAjTjB93/sZ64KX5V8uHZPaJT1sedXR0gsseZnW0sn4Lz3MNwLsOSWbzI7AHjsFrx8veET7jsbAjij94UAsNa3pNFWU6yrI2+cirtPVlsC/0bSwiOlu98key9lbvQexucYFYcGgtdT16FlMs4T3twYXxHAupMnO94eci02vWx5oTmfbVm9e+hvOO3HZJBXXRyEYDJVG4LGeg2Jn2T3jmHMPH8zwncL0Q/dFCuI0iCq6R9KI6QjapXoCt7mSgla1kWCsuHQmgjVROYcGoRUTLdPTWzvbX32SGFx1KWw==</Modulus>
+</RSAParameters>
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+PRIVATE KEY
+---------------------------------------------------------------------------
+Private Key : <?xml version="1.0" encoding="utf-16"?>
+<RSAParameters xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Exponent>AQAB</Exponent>
+  <Modulus>6W00UdrVgfqDjhf+nYFGYfaR4OwvGa1TGU0TO9ESS4AV8YHZAAjTjB93/sZ64KX5V8uHZPaJT1sedXR0gsseZnW0sn4Lz3MNwLsOSWbzI7AHjsFrx8veET7jsbAjij94UAsNa3pNFWU6yrI2+cirtPVlsC/0bSwiOlu98key9lbvQexucYFYcGgtdT16FlMs4T3twYXxHAupMnO94eci02vWx5oTmfbVm9e+hvOO3HZJBXXRyEYDJVG4LGeg2Jn2T3jmHMPH8zwncL0Q/dFCuI0iCq6R9KI6QjapXoCt7mSgla1kWCsuHQmgjVROYcGoRUTLdPTWzvbX32SGFx1KWw==</Modulus>
+  <P>9xIK2bMboZeVDvqwkc3rci8eT84Y4y0PH+VhheKq5L/buE4RFQS5o8FkbeFVShdxu9ZcMTxoiCYeudACq6/q676EDfS2xZFwUNNpqoKpI6QInz/Hz12HRlo9CZqiIOmHstJxxcMYnuDaACKO9KwxAjpZvgDIvPMpytLpM+R/J6k=</P>
+  <Q>8dzs3KZuuI68VJ70Du4eUwXJPXgaVtApI3MHFkEBQVH02KLF2QIIc13K7nqla8UjBYClf/aiqJSvpIefcbWF3L7HP586Dn7qZ3ckmARy6O/qqttQ059X9km5VMrjE5PyT7VtWTvKwQ8ze9XvmdOYO1yIM+zXD9E3lnuocL/x1GM=</Q>
+  <DP>OQNF07Sb9K7464r3wb2FzkSHNx006v9T1SVmWrHSg5SuTBpfoL0FZX9UAHMV7lH4ocK2ZXouGPTK9E/Gvf2LNTkyWdIVdwO3qj8OzBT4mMvaXX0nS3empppeKWAwd23MLXyYWm1JuifixlMzL8yoRn5WhRzDNa7a/v2qaJoaqXk=</DP>
+  <DQ>RVVCpUIkrU1lmZBzgDAsizo2ZSOf0VEc6eeYmX2LAZGf8dY/hyT5DTFO8ixAbXN2xaYKS3OFT3RIIY8rWuphdFVQQuG/P9aMFZrm55km47Wa/N2f/vpHufeKZE9A5yTbKpRkw1bLmapk5NQAOoWYtzOga9oyEHu2RrIuKBwuE+c=</DQ>
+  <InverseQ>axtLLCC9TJ61yAGgTr8wPoXW0BwdZISAwgl3W2919sdPt4L9W2bLksnN9ioyALywrcuFxvpQJ7a+n7ZCfsTGStuORRFzr5CFeVu+s8ApIKQb3Fu/70dpwSzVX8exOkWXm3aSSEMwzyuJNvlxh9KrRw9eZz/2Nq4UcpCEyw+BwV4=</InverseQ>
+  <D>u3Vm2gGrC1o6widE5AqIkm2o03/5h15paN08AAKz9YwkkzHbKirscRBolmOhFL5V0wrxbcSLmv4rJNpkIxGqFVCbz+hn5a6ZMdlG7O3Pfy6Ds0JkIyz25tShmPZCZGj6XxWxLkomk3MbVuLuQYTFWGrmwiqQ2gfiaQl6LpMkBq1bic1b9mr15lwMud0zWE2xA3bOvts7knbkycm8zH+ksnrXCFTp3SEzhPrY83erFTtyckhyTkXR65YW00fXe+lrEepqIB+Bmwe98mUOi8iVdalS/+Zh5fljIe6yBug1q9fPHHk1ujBvRDMt0ZUjJv8P9YIO/Z7ulHdZo46nXSdBMQ==</D>
+</RSAParameters>
+---------------------------------------------------------------------------
+-------------------------------------------------------------
+// Program RSACryptoApp
+// Purpose:
+// Demonstrate Creation of Public Key Components
+// Specifically EXPONENT and MODULUS Components
+// System.Security.Cryptography
+// AND
+// System.Security.Cryptography.X509Certificates
+// Dot Net Encryption Libraries
+// Basis of Encryption and Decryption is RSA Algorithm
+// Original Plain Text is Displayed In it's Encrypted Format
+// ALSO Performs:
+// Demonstrate Encryption of plain text message
+// ALSO Performs:
+// Decryption of Encryped message using Private Key
+// Demonstrate Encryption of plain text message
+// Using RSA
+// Libraries Used Are
+// System.Security.Cryptography
+// AND
+// System.Security.Cryptography.X509Certificates
+// Dot Net Encryption Libraries
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+Demonstrating RSA Encryption Using Public Key
+-------------------------------------------------------------
+Clear Text: Hello from .NET
+-------------------------------------------------------------
+-------------------------------------------------------------
+Plain Text: Hello from .NET
+-------------------------------------------------------------
+-------------------------------------------------------------
+Encrypted: SVLE+qXkfsN3nb8au8+WuAhjuZ0g4ItltUpTI+WquBX4quVEu5gYCL4RRSEK5PyTb/EnvDwU6v0n7pdzOcxbyMhohMfgdwuVI0NRrMlpmivonW9M99LCAbkmsnkaaRa+4qOmDQLUgLqI/qB8ZTCF71W8y9RHqc2QYSuBoO5ZVoPUs4CxVdQq/S+6UKAtNYt5GPT2uSgTcs/sC24frpk23Tbd1t0xIZb3uYbgrWxaGthJRsXEVBXB2Zeh2fzvuPoi5lGOawaNZlOmt2VM4iNhrXpIxThxxk0qmC8lxKJZ5xbTzCqmJlKZWekdV2n8tcvL3R849IupjrHLRP567hENRw==
+-------------------------------------------------------------
+-------------------------------------------------------------
+Demonstrating RSA Encryption Using Public Key
+-------------------------------------------------------------
+-------------------------------------------------------------
+Plain Text :
+Hello World
+-------------------------------------------------------------
+-------------------------------------------------------------
+Encrypted Text :
+ieKC0sdvZjlkbH/MhlSk1hcsyjrPQtNkMosRmtKyn228R44csqYQI7t40KcScbob/pOisKYTbc86/JpC0TW0p5v7nDgngCTA9vMqvF+WmgrvBnvIKXfhfB+1efMoJGsaRM2oqHVks2agdFKuFccM0nZAr8Oo4CfALAvWsqoSWYI=
+-------------------------------------------------------------
+-------------------------------------------------------------
+Demonstrating RSA Decryption Using Private Key
+-------------------------------------------------------------
+-------------------------------------------------------------
+Decrypted Text :
+Hello World
+-------------------------------------------------------------
+Public KEY : 
+MIIBITANBgkqhkiG9w0BAQEFAAOCAQ4AMIIBCQKCAQCtpUdDWOMM2rJtuY9EvKD4vz2eEbkqABlSmdIm4BDeKkEedxS/3b5bSkaXkuFpMidHC4Qg4UssFh8sE3J+L4cy7BW5DJ9MnWzg5kece3KTGJEoWco8ShOV1Zb+fgQXL9BNBSD7XXkq1JWJYZdbczMUzBNjDuDO3JUwG2oRw+vtFLPbvHztvBy9FIlf8vM0J75ho2/QLcrpOjY/fSLy1+B8TXGkFQaDdIQUPku9mIRWfXQjAB449S11y3RSzv0m9LqLj+HdbsvZwDeTzU+HCV2gqOUQ0TTAbjf1TJiOlrLAmn0OdTE7o/WtP7BevY5uaJmCfvHkRW7gRp42xrLcWGwNAgMBAAE=
+Private KEY : 
+MIIEoQKBAQACggEAraVHQ1jjDNqybbmPRLyg+L89nhG5KgAZUpnSJuAQ3ipBHncUv92+W0pGl5LhaTInRwuEIOFLLBYfLBNyfi+HMuwVuQyfTJ1s4OZHnHtykxiRKFnKPEoTldWW/n4EFy/QTQUg+115KtSViWGXW3MzFMwTYw7gztyVMBtqEcPr7RSz27x87bwcvRSJX/LzNCe+YaNv0C3K6To2P30i8tfgfE1xpBUGg3SEFD5LvZiEVn10IwAeOPUtdct0Us79JvS6i4/h3W7L2cA3k81PhwldoKjlENE0wG439UyYjpaywJp9DnUxO6P1rT+wXr2ObmiZgn7x5EVu4EaeNsay3FhsDQKBAwEAAQKCAQAMoBC/X84aWChS/APjrodRrq3vOUCqQhmVPOPfubjgPlg/u87BaID3qD3btW04NdJPQxIXReouSWl4ze0sKY598FZf/v/yFRweef/I69zXvxiGw4iFu6kS4tW4qTbo7KwLfYz5WcF+kLhSpcrYdlbHc1MRh7pmr/kU51ld803LDfCgqc+qNCufnOCx2dAJx+kKErwwPEFjxOxoSIJcVFknvT9RNDNPvDozOGfbesUhOIRMNnGo+Pppx6k6hb4wAGPAuc+yY32nyBATApqzAFEwUkTbOV8FlQURv/SXpM2GVzd8SzpG3bGBA5u7ttinhbueqgN5ggs3QB9QMgUKZ4qNAoGA1MJEobrzwMbD1ywZqta6Yjr080my+aA4SIHnzIB+SsQJlYGdwn9H+E1ljdytcWqr2rohqxfzvCfzktGWdGDCf251XgG8eNTzG4BABvvrAklXw1DgsqeMBIKCE/kJQGmZISEXSyhN7+oh7W55HOwV6ROpohmc09XUPdP7WS4xxfcCgYDQ7/gG0oQjPXlZdpoN4VM0nD6CYgfCL+auOfYdnTz6IJPaf6atX+hRkYTRp9QZvqeqdHzIzEz1lpVC5gK3ot4qE54eahyXEuRvIaUnJcrN2UDX9W/8Dj5pdFkIO28wu9x1lJMcEG+8qHZr4vdT/oO7iF9S7vLsGJyufDA7u40NGwKBgMDaGzXybXKneOt4+QcnPqk9wb0pZ8boGTx4LDHtowyIaBuR8vtTPlxvY4dUqg7tXzuTjmM1AeTi3eGOg2+YKZUy/cYpkrqAZKDf/qmV/i8DZj8P961ZPAz2c4xBJ8awMXKbOS8SKJs4wmoiwjuaMD4maZQa3VITOCCXHvV2bv1/AoGAGtFyaI3E4DEXzl/mzjlJ0MrtSxcCH+6+EUbnTE3OcdyUncscvcw9qZqgDbkZBGTwaHSjP7LZffxiFEApwSBqm8QA266LFOkb4RfUdv3m1h04sX+TbCr339lLRD88umiil4UGjOefL/v/l0F+tY1Jo1yRv7dj/uH52nueRUyBglkCgYAKUepmuOshxPmuvK5xuMDtMyYZORoPSOiAkDiPJzjq2IMyMJYq0zgb8fpTyRaVWcZbDlLA+Tugk2kHl5CPguE0YqKYUEc9xS4VzLxVNjrGOLIyuJuytSlU/Ks9JWbcGawUFbLAToLFT1zrimU9FbjSeWR5/0TlF7tclN1M0w1/aw==
+Number of certificates: 1
+
+Content Type: Cert
+
+Friendly Name: 
+
+Certificate Verified?: True
+
+Simple Name: dchurch
+
+Signature Algorithm: sha1RSA
+
+Public Key: <RSAKeyValue><Modulus>vSjZw6hc+ZoEYn4VWUgJZF/+azVl9qFEXGAcVUhV+G1kJEu0xeYankAGcL07sfB2gzumtuzlrWKXqCN4ympBPQ7mEbDDSPoONHpKQnisYB5Qwrc9HmeTUkFWwU9L32ljBh6iBfO09uRNrWFyfiJhOEvvw0DWNDhrTEaO1Ytg2Cvgi0fS1jP0QaUam+aG7ZkrI0vwfNw0CQ3OHPX+Jq2vG0kYA370+VehnRlT+q/Cr5qbe0aXq/eI835r6w2NCxkKPkwVfvXynyMBVG7P/mWkKus6wMBOlT3QBVJ0S+AsjzxyY+DDPLPtkzMkflPS/lb080TyII2WbXmttGvUOsLrgQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>
+
+Certificate Archived?: False
+
+Length of Raw Data: 776
+
