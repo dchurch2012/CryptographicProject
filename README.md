@@ -50,8 +50,11 @@ RSAEncryption
 // Demonstrates generating a public key using Microsoft X509 Certificate facility
 // Displays the public key in XML file
 // See the source code of the file for details
+//------------------------------------------------------------------------------------------------
+// PublicPrivateKeys.py
+//------------------------------------------------------------------------------------------------
+// Demonstrates generating a public key using Python's Cryptographic libraries
 
-TO BE DONE:
 
-Add Python Code that duplicates C# code
+
 
